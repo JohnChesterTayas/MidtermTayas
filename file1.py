@@ -6,4 +6,4 @@ else:
     return n * factorial(n-1)
 
 result = factorial(5)
-print(f"Factorial of 5 is: {result}")
+print("Factorial of 5 is: {result}")
